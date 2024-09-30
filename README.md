@@ -5,4 +5,4 @@
 if you need help, discord: thecroshel
 
 
-_ALIAS COMMANDS NOT WORKING__
+_ALIAS COMMANDS NOT WORKING_
